@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[Prtifolio** it is a project that contains my career information and the company and clients i have i worked for.
+**[My portifolio]** it is a project that contains my career information and the company and clients i have i worked for.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -97,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[No react is used just a simple html page]**
+- **[]**
 - **[key_feature_2]**
 - **[key_feature_3]**
 
