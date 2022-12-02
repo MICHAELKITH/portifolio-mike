@@ -21,6 +21,7 @@ REQUIRED SECTIONS:
 
 After you're finished please remove all the comments and instructions!
 -->
+# section part 
 
 <div align="center">
 
@@ -35,6 +36,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
+- [section part](#section-part)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 \[my-portifolio \] ](#-my-portifolio--)
   - [🛠 Built With ](#-built-with-)
