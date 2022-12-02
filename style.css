@@ -20,7 +20,7 @@
 .headline-section {
   display: flexbox;
   font-weight: 100;
-  background-image: url("image/header-shapes\ mobile.png");
+  background-image: url("image/header-shapes\ mobile@2x.png");
   object-fit: cover;
 }
 
